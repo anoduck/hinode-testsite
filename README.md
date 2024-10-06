@@ -1,43 +1,18 @@
-# Hinode - Template
+# Seonaut Hinode Template - Test site for seonaut
 
 <!-- Tagline -->
 <p align="center">
-    <b>A clean documentation and blog theme for your Hugo site based on Bootstrap 5</b>
+    <b>A Hinode template to test seonaut.</b>
     <br />
-</p>
-
-<!-- Badges -->
-<p align="center">
-    <a href="https://gohugo.io">
-        <img src="https://img.shields.io/badge/generator-hugo-brightgreen" alt="Hugo website">
-    </a>
-    <a href="https://app.netlify.com/sites/gethinode-template/deploys">
-        <img src="https://img.shields.io/netlify/bbe29d40-f246-44fc-ac33-3c48e4776a11" alt="Netlify Status">
-    </a>
-    <a href="https://stats.uptimerobot.com/xyGVYhLJmV">
-        <img src="https://img.shields.io/uptimerobot/status/m793642596-ec67b9245f33e4f365f0da66" alt="UptimeRobot Status">
-    </a>
-    <a href="https://github.com/gethinode/template/commits/main">
-        <img src="https://img.shields.io/github/last-commit/gethinode/template.svg" alt="Last commit">
-    </a>
-    <a href="https://github.com/gethinode/template/issues">
-        <img src="https://img.shields.io/github/issues/gethinode/template.svg" alt="Issues">
-    </a>
-    <a href="https://github.com/gethinode/template/pulls">
-        <img src="https://img.shields.io/github/issues-pr-raw/gethinode/template.svg" alt="Pulls">
-    </a>
-    <a href="https://github.com/gethinode/template/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/gethinode/template" alt="License">
-    </a>
 </p>
 
 ## About
 
-![Logo](https://raw.githubusercontent.com/gethinode/hinode/main/static/img/logo.png)
-
-Hinode is a clean blog theme for [Hugo][hugo], an open-source static site generator. Use this template if you would like to **take advantage of automation features**, provided by npm and GitHub actions. Visit the [docs][docs] for an alternative installation that uses Hugo only.
+So, I noticed that my original instructions to replicate the error did not quite replicate the same environment that seonaut was attempting to scrape. The environment is particular to the hinode template for use with Hugo. Several projects are currently suing this framework for thei documentations sites. 
 
 ## Prerequisites
+
+You can follow this, I added the extra steps.
 
 Hinode is a theme that uses [Hugo modules][hugo_modules] to install and maintain various components. The Hinode template requires the following software to be installed on your local machine. The Hugo binary itself is embedded as an npm binary.
 
@@ -62,6 +37,24 @@ Hinode is a theme that uses [Hugo modules][hugo_modules] to install and maintain
     ```bash
     npm install && npm run mod:update
     ```
+
+You will not be able to use hugo's own development server for this, because it does not process the images.
+
+4. **Build the site.**
+
+    ```bash
+    npm run build
+    ```
+
+5. **Serve the site**
+
+    ```bash
+        cd public
+        npx live-server --port=8080 --entry-file=index.html .
+    ```
+
+6. Crawl it.
+
 
 You can now run `npm run start` to start a local development server.
 

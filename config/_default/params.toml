@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "A site to test the scraping abilities of seonaut on."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
@@ -21,19 +21,19 @@
     purgeHTMLComments = false
 
 [docs]
-    github = "https://github.com/gethinode/hinode"
-    release = "https://github.com/gethinode/hinode/releases/tag/"
+    github = "https://github.com/anoduck/seonaut-testsite"
+    release = "https://github.com/anoduck/seonaut-testsite/releases/tag/"
     checkVersion = false
 
 [home]
-    # sections = ["posts"]
-    fullCover = false
-    centerHeadline = false
+    sections = ["Docs", "Blog"]
+    fullCover = true
+    centerHeadline = true
     style = ""
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
+    logo = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-icon.png"
     color = "body"
     fixed = true
     offset = "5.5rem"
@@ -46,6 +46,10 @@
 
 [messages]
     placement = "bottom-right"
+
+[images]
+    [images.cloudinary]
+        host = "cloudinary"
 
 [sharing]
     enabled = true
@@ -85,21 +89,35 @@
     clipboard = true
 
 # toml-docs-start sections
-# [sections]
-#     [sections.posts]
-#         title = "Posts"
-#         sort = "date"
-#         reverse = true
-#         nested = true
-#         cols = 3
-#         color = ""
-#         padding = "0"
-#         header = "full"
-#         footer = "none"
-#         orientation = "stacked"
-#         style = "border-0 card-zoom"
-#         homepage = 3
-#         separator = true
+[sections]
+    [sections.docs]
+        title = "Docs"
+        sort = "date"
+        reverse = true
+        nested = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
+    [sections.blog]
+        title = "Blog"
+        sort = "date"
+        reverse = true
+        nested = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
 # toml-docs-end sections
 
 [favicon]
@@ -138,16 +156,16 @@
         linkedin = "https://www.linkedin.com/in/markdumay/"
         github = "https://github.com/markdumay"
     [schema.logo]
-        url = "img/logo512x512.png"
+        url = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-icon.png"
         width = 512
         height = 512
     [schema.image]
-        url = "img/logo1280x640.png"
+        url = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-logo-vector.svg"
         width = 1280
         height = 640
 
 [opengraph]
-    images = ["logo.png"]
+    images = ["https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-icon.png"]
     locale = "en_US"
 
 [links]
