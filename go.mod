@@ -1,4 +1,4 @@
-module github.com/gethinode/template
+module github.com/anoduck/hinode-testsite
 
 go 1.20
 

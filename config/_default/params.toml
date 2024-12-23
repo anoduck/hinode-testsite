@@ -13,7 +13,7 @@
         cue = false
         tab = false
     [main.build]
-        transpiler = "libsass"
+        transpiler = "dartsass"
 
 [debugging]
     showJS = false
