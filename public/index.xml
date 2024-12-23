@@ -1,6 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to Hinode! on Seonaut Test Site</title><link>https://example.com/</link><description>Recent content in Welcome to Hinode! on Seonaut Test Site</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2024 Mark Dumay.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>https://example.com/aboutus/</link><pubDate>Sun, 06 Oct 2024 12:03:17 -0400</pubDate><guid>https://example.com/aboutus/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptas iure reprehenderit, dolorem minus, similique voluptatibus aut, veniam illo voluptates modi repudiandae dolor assumenda quae ipsa officiis fuga, exercitationem aliquid.&lt;/p></description></item><item><title>Page2</title><link>https://example.com/docs/page2/</link><pubDate>Sun, 06 Oct 2024 12:02:06 -0400</pubDate><guid>https://example.com/docs/page2/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p></description></item><item><title>Page1</title><link>https://example.com/docs/page1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/page1/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus fuga, repudiandae ipsum, quia non odit magnam, doloribus dicta at molestiae, facilis voluptates eos perferendis cumque! Corrupti vel adipisci ullam. Doloremque.&lt;/p></description></item><item><title>Post1</title><link>https://example.com/blog/post1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/blog/post1/</guid><description>&lt;p>Augmented reality tank-traps drone computer chrome-space rebar disposable sprawl paranoid j-pop drugs. Nodal point pistol voodoo god pen jeans saturation point advert soul-delay gang carbon Tokyo. Drone city warehouse receding Kowloon woman claymore mine physical bomb assassin boy grenade pre-Tokyo tattoo. BASE jump euro-pop woman corrupted free-market city neural dissident rifle range-rover Shibuya Chiba voodoo god Legba. Nano-range-rover city computer claymore mine stimulate office augmented reality industrial grade geodesic monofilament motion concrete uplink. Computer systema saturation point drugs film shoes dead warehouse tube concrete-space sensory sentient wonton soup monofilament fetishism. Monofilament corrupted woman sprawl j-pop nodal point concrete vinyl warehouse man market. Vinyl car tube media human advert geodesic modem computer sensory. Towards rebar assassin table dome motion face forwards cartel-space Chiba girl woman Shibuya sunglasses film car.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to the Hinode Test Site! on Seonaut Test Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to the Hinode Test Site! on Seonaut Test Site</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2024 Mark Dumay.</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/aboutus/</link>
+      <pubDate>Sun, 06 Oct 2024 12:03:17 -0400</pubDate>
+      <guid>http://localhost:1313/aboutus/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptas iure reprehenderit, dolorem minus, similique voluptatibus aut, veniam illo voluptates modi repudiandae dolor assumenda quae ipsa officiis fuga, exercitationem aliquid.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post1</title>
+      <link>http://localhost:1313/blog/post1/</link>
+      <pubDate>Sun, 06 Oct 2024 12:02:49 -0400</pubDate>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description>&lt;p&gt;Augmented reality tank-traps drone computer chrome-space rebar disposable sprawl paranoid j-pop drugs. Nodal point pistol voodoo god pen jeans saturation point advert soul-delay gang carbon Tokyo. Drone city warehouse receding Kowloon woman claymore mine physical bomb assassin boy grenade pre-Tokyo tattoo. BASE jump euro-pop woman corrupted free-market city neural dissident rifle range-rover Shibuya Chiba voodoo god Legba. Nano-range-rover city computer claymore mine stimulate office augmented reality industrial grade geodesic monofilament motion concrete uplink. Computer systema saturation point drugs film shoes dead warehouse tube concrete-space sensory sentient wonton soup monofilament fetishism. Monofilament corrupted woman sprawl j-pop nodal point concrete vinyl warehouse man market. Vinyl car tube media human advert geodesic modem computer sensory. Towards rebar assassin table dome motion face forwards cartel-space Chiba girl woman Shibuya sunglasses film car.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Page2</title>
+      <link>http://localhost:1313/docs/page2/</link>
+      <pubDate>Sun, 06 Oct 2024 12:02:06 -0400</pubDate>
+      <guid>http://localhost:1313/docs/page2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,&#xA;quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo&#xA;consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse&#xA;cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non&#xA;proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Page1</title>
+      <link>http://localhost:1313/docs/page1/</link>
+      <pubDate>Sun, 06 Oct 2024 12:01:00 -0400</pubDate>
+      <guid>http://localhost:1313/docs/page1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus fuga, repudiandae ipsum, quia non odit magnam, doloribus dicta at molestiae, facilis voluptates eos perferendis cumque! Corrupti vel adipisci ullam. Doloremque.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

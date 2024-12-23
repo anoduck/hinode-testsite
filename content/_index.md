@@ -1,12 +1,12 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Welcome to the Hinode Test Site!
+description: A Hinode instance specifically built for testing rendering and compatibility.
 thumbnail:
-    url: https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-logo-vector.svg
+    url: https://testhinode.netlify.app/logo-lg.jpg
     author: 
     authorURL: 
-    origin: Cloudinary
-    originName:
+    origin:
+    originName: Grok
 actions:
   get-started:
     url: "/docs/"

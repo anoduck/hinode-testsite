@@ -33,7 +33,7 @@
 
 [navigation]
     anchor = true
-    logo = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-icon.png"
+    logo = "/logo-lg.jpg"
     color = "body"
     fixed = true
     offset = "5.5rem"
@@ -148,24 +148,24 @@
     locale = "en-US"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    github = "https://github.com/anoduck/hinode-testsite"
     section = "blog"
     [schema.author]
-        name = "Mark Dumay"
+        # name = "Mark Dumay"
         # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        # linkedin = "https://www.linkedin.com/in/markdumay/"
+        # github = "https://github.com/markdumay"
     [schema.logo]
-        url = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-icon.png"
+        url = "/logo.jpg"
         width = 512
         height = 512
     [schema.image]
-        url = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-logo-vector.svg"
+        url = "/logo-lg.jpg"
         width = 1280
         height = 640
 
 [opengraph]
-    images = ["https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228774/samples/cloudinary-icon.png"]
+    images = ["/logo.jpg", "/logo-lg.jpg", "/logo-sm.jpg"]
     locale = "en_US"
 
 [links]

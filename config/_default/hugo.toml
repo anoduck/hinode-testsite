@@ -3,7 +3,7 @@ copyright = "Copyright © 2024 Mark Dumay."
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://testhinode.netlify.app/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
