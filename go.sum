@@ -2,6 +2,14 @@ github.com/airbnb/lottie-web v5.12.2+incompatible h1:Ldogtlhiucf7mMsgisyxSBY0qun
 github.com/airbnb/lottie-web v5.12.2+incompatible/go.mod h1:nTss557UK9FGnp8QYlCMO29tjUHwbdAHG/DprbGfHGE=
 github.com/anoduck/mod-timelinejs v0.0.55 h1:pVZMTTrwm5qRNZD7uXKkyvaa/gyfs8LeAqA3jU/+Dc4=
 github.com/anoduck/mod-timelinejs v0.0.55/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
+github.com/anoduck/mod-timelinejs v0.0.56 h1:LtCEq9m/nALR+GtxI03Q1xs9jRfB8Q6l8gd5OsjQy6E=
+github.com/anoduck/mod-timelinejs v0.0.56/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
+github.com/anoduck/mod-timelinejs v0.0.57 h1:Ykdjyo9VzuKcx2wlO+oQqXvqAos+PXwMhc3ZfebTyxI=
+github.com/anoduck/mod-timelinejs v0.0.57/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
+github.com/anoduck/mod-timelinejs v0.0.58 h1:EzrkrpJo4pGymfWKEULIgbhbSYtndlcemyj5IN363HI=
+github.com/anoduck/mod-timelinejs v0.0.58/go.mod h1:HimIe40nUKO/hkNWrjMrofnmZ13uLninGjjafwAnqVg=
+github.com/anoduck/mod-timelinejs v0.0.59 h1:+UMMWAWXIVDeDpkqxWYAgCIDM+YFt0UIVZ12yg8jMZ4=
+github.com/anoduck/mod-timelinejs v0.0.59/go.mod h1:HimIe40nUKO/hkNWrjMrofnmZ13uLninGjjafwAnqVg=
 github.com/gethinode/hinode v0.16.1 h1:UJ4tn1FyaFvHRwUFhi1SMKmNIvI2DAdgdHdej2iDhSs=
 github.com/gethinode/hinode v0.16.1/go.mod h1:xqMr5rSBg/DFNyh67VdUNT1oHdqSMvUa+uewH2KA5Zo=
 github.com/gethinode/hinode v0.16.2 h1:OMiK3ww0IzCv66Of0ROr/0oyUFWm1Efg/zY8UdpGNOw=
@@ -230,6 +238,8 @@ github.com/gethinode/mod-lottie v1.5.8 h1:glg5HcjOBkFt5MoF7p24NN+RzctExPQUDXvdhP
 github.com/gethinode/mod-lottie v1.5.8/go.mod h1:Z/FlAcCJWYI1Z9tQnL0yRN4lqhyZl9CqYpfJUPVDaGc=
 github.com/gethinode/mod-lottie v1.5.12 h1:ny+5DfxWpgRPszhrSUqg+BcNt05ai1OvPAEgCuioFnA=
 github.com/gethinode/mod-lottie v1.5.12/go.mod h1:0WZP8x7duK/AIZ8fWdZNRnteG03kYfLtsaph7z1mdOg=
+github.com/gethinode/mod-mermaid v1.1.21 h1:CkeznSNQVuqOGzHnqKSRS2OiltnmigUoO4BnnEn6D7s=
+github.com/gethinode/mod-mermaid v1.1.21/go.mod h1:rw6vrY9DpdJblwFwLuXCdy2kBHxMf6gGKWeetwfTSfc=
 github.com/gethinode/mod-simple-datatables v1.0.2 h1:zhqxHet3iLQWYCBbGROALpOY9zQlptMycFkz1Tto5bA=
 github.com/gethinode/mod-simple-datatables v1.0.2/go.mod h1:mmrcvAJU2i3SMU56VmQ5PW43uDXBcsJKcZwCHrvl3Kc=
 github.com/gethinode/mod-simple-datatables v1.0.3 h1:JL2nBlEHWMmkE7EZrpfpmzka47dklJUh23/xKJkOQoI=
