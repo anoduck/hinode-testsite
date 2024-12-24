@@ -5,12 +5,12 @@ type: docs
 description: "Fake Documentation page"
 tags: ["docs", "page1", "Fake", "testing"]
 thumbnail: 
-    url: https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228782/samples/balloons.jpg
+    url: https://res.cloudinary.com/dtpjdhepe/image/upload/v1735072626/photo-1733424114792-22dead08b07d_ounmkf.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus fuga, repudiandae ipsum, quia non odit magnam, doloribus dicta at molestiae, facilis voluptates eos perferendis cumque! Corrupti vel adipisci ullam. Doloremque.
 
-{{< image src="https://res.cloudinary.com/dtpjdhepe/image/upload/v1728228775/samples/sheep.jpg" >}}
+{{< image src="https://res.cloudinary.com/dtpjdhepe/image/upload/v1735072814/photo-1731001792732-2feec58c242c_pb3lpi.jpg" >}}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos laudantium sapiente quasi mollitia, nemo minus ex qui aliquam? Sint cupiditate dicta aperiam expedita error quas velit facilis, repellendus, vel quos.
 

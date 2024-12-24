@@ -1,28 +1,29 @@
 [main]
     separator = "-"
-    description = "A site to test the scraping abilities of seonaut on."
+    description = "A Hinode instance specifically built for testing rendering and compatibility."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
-    canonifyAssetsURLs = false
+    canonifyAssetsURLs = true
     endorse = true
     footerBelowFold = false
-    loading = "lazy"
+    loading = "eager"
     breakpoint = "md"
     [main.externalLinks]
         cue = false
-        tab = false
+        tab = true
     [main.build]
         transpiler = "dartsass"
 
 [debugging]
-    showJS = false
-    showSCSS = false
+    showJS = true
+    showSCSS = true
     purgeHTMLComments = false
 
 [docs]
-    github = "https://github.com/anoduck/seonaut-testsite"
-    release = "https://github.com/anoduck/seonaut-testsite/releases/tag/"
+    contentPath = "/docs/"
+    github = "https://github.com/anoduck/hinode-testsite"
+    release = "https://github.com/anoduck/hinode-testsite/releases/tag/"
     checkVersion = false
 
 [home]
@@ -33,7 +34,7 @@
 
 [navigation]
     anchor = true
-    logo = "/logo-lg.jpg"
+    logo = "logo-lg.jpg"
     color = "body"
     fixed = true
     offset = "5.5rem"
@@ -50,6 +51,13 @@
 [images]
     [images.cloudinary]
         host = "cloudinary"
+
+[videos]
+    [videos.cloudinary]
+        host = "cloudinary"
+        account = "solardump"
+    [videos.youtube]
+        host = "youtube"
 
 [sharing]
     enabled = true
@@ -144,17 +152,17 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
+    name = "Anoduck"
     locale = "en-US"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     github = "https://github.com/anoduck/hinode-testsite"
     section = "blog"
     [schema.author]
-        # name = "Mark Dumay"
+        name = "Anoduck, The Anonymous Duck"
         # twitter = "https://twitter.com/markdumay"
         # linkedin = "https://www.linkedin.com/in/markdumay/"
-        # github = "https://github.com/markdumay"
+        github = "https://github.com/anoduck"
     [schema.logo]
         url = "/logo.jpg"
         width = 512
@@ -170,3 +178,7 @@
 
 [links]
     hinode = "https://gethinode.com"
+    hinoderepo = "https://github.com/gethinode/hinode"
+
+[modules.fontawesome]
+	skipMissing = true
