@@ -4,14 +4,14 @@
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
-    canonifyAssetsURLs = true
+    canonifyAssetsURLs = false
     endorse = true
     footerBelowFold = false
-    loading = "eager"
+    loading = "lazy"
     breakpoint = "md"
     [main.externalLinks]
         cue = false
-        tab = true
+        tab = false
     [main.build]
         transpiler = "dartsass"
 
@@ -21,13 +21,12 @@
     purgeHTMLComments = false
 
 [docs]
-    contentPath = "/docs/"
     github = "https://github.com/anoduck/hinode-testsite"
     release = "https://github.com/anoduck/hinode-testsite/releases/tag/"
     checkVersion = false
 
 [home]
-    sections = ["Docs", "Blog"]
+    # sections = ["posts"]
     fullCover = true
     centerHeadline = true
     style = ""
@@ -97,35 +96,21 @@
     clipboard = true
 
 # toml-docs-start sections
-[sections]
-    [sections.docs]
-        title = "Docs"
-        sort = "date"
-        reverse = true
-        nested = true
-        cols = 3
-        color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        style = "border-0 card-zoom"
-        homepage = 3
-        separator = true
-    [sections.blog]
-        title = "Blog"
-        sort = "date"
-        reverse = true
-        nested = true
-        cols = 3
-        color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        style = "border-0 card-zoom"
-        homepage = 3
-        separator = true
+# [sections]
+#     [sections.posts]
+#         title = "Posts"
+#         sort = "date"
+#         reverse = true
+#         nested = true
+#         cols = 3
+#         color = ""
+#         padding = "0"
+#         header = "full"
+#         footer = "none"
+#         orientation = "stacked"
+#         style = "border-0 card-zoom"
+#         homepage = 3
+#         separator = true
 # toml-docs-end sections
 
 [favicon]
@@ -164,21 +149,20 @@
         # linkedin = "https://www.linkedin.com/in/markdumay/"
         github = "https://github.com/anoduck"
     [schema.logo]
-        url = "/logo.jpg"
+        url = "logo.jpg"
         width = 512
         height = 512
     [schema.image]
-        url = "/logo-lg.jpg"
+        url = "logo-lg.jpg"
         width = 1280
         height = 640
 
 [opengraph]
-    images = ["/logo.jpg", "/logo-lg.jpg", "/logo-sm.jpg"]
+    images = ["logo.jpg", "logo-lg.jpg", "logo-sm.jpg"]
     locale = "en_US"
 
 [links]
     hinode = "https://gethinode.com"
-    hinoderepo = "https://github.com/gethinode/hinode"
 
 [modules.fontawesome]
 	skipMissing = true

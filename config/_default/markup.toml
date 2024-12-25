@@ -38,4 +38,4 @@ defaultMarkdownHandler = "goldmark"
     [goldmark.renderer]
         hardWraps = false
         unsafe = true
-        xhtml = true
+        xhtml = false
