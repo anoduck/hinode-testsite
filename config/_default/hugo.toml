@@ -85,7 +85,7 @@ home = ["HTML", "RSS", "REDIR"]
     keepWhitespace = true
 
 [module]
-  replacements = "github.com/anoduck/mod-timelinejs -> ../../mod-timelinejs"
+# replacements = "github.com/anoduck/mod-timelinejs -> ../../mod-timelinejs"
   [module.hugoVersion]
     extended = true
     min = "0.134.0"
