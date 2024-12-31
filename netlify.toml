@@ -32,7 +32,7 @@
             frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com \
                 app.netlify.com; \
             img-src 'self' data: https://*.netlify.app https://i.vimeocdn.com \
-                https://i.ytimg.com https://res.cloudinary.com https://*.google-analytics.com \
+                https://i.ytimg.com https://*.cloudinary.com https://*.google-analytics.com \
                 https://*.googletagmanager.com https://tile.openstreetmap.org; \
             manifest-src 'self'; \
             media-src 'self' \
