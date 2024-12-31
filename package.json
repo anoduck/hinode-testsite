@@ -50,7 +50,7 @@
     "@knight-lab/timelinejs": "^3.9.5",
     "bundle-scss": "^1.5.4",
     "eslint": "^9.17.0",
-    "hugo-bin": "^0.137.1",
+    "hugo-bin": "^0.137.2",
     "live-server": "^1.2.2",
     "markdownlint-cli2": "^0.17.1",
     "neostandard": "^0.12.0",
