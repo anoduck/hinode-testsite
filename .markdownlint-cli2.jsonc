@@ -20,7 +20,8 @@
     "MD055": false,
     "MD056": false,
     "MD029": false,
-    "MD052": false
+    "MD052": false,
+    "MD041": false
   },
   "ignores": [
     "node_modules",
