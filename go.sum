@@ -16,6 +16,8 @@ github.com/anoduck/mod-timelinejs v0.0.61 h1:sXBWV2aKky4bvBlp/o8KEx4Yy5jmOSY04qa
 github.com/anoduck/mod-timelinejs v0.0.61/go.mod h1:HimIe40nUKO/hkNWrjMrofnmZ13uLninGjjafwAnqVg=
 github.com/anoduck/mod-timelinejs v0.0.65 h1:O5Hjkv7Ew7Vq2drFpaBXFPxR8JT1sUVLVZDMwwNRCpY=
 github.com/anoduck/mod-timelinejs v0.0.65/go.mod h1:HimIe40nUKO/hkNWrjMrofnmZ13uLninGjjafwAnqVg=
+github.com/anoduck/mod-timelinejs v0.0.66 h1:lcaZVAe3H23oWspyEps72kO4VH8nnSCKZeJa/vKEmTg=
+github.com/anoduck/mod-timelinejs v0.0.66/go.mod h1:HimIe40nUKO/hkNWrjMrofnmZ13uLninGjjafwAnqVg=
 github.com/gethinode/hinode v0.16.1 h1:UJ4tn1FyaFvHRwUFhi1SMKmNIvI2DAdgdHdej2iDhSs=
 github.com/gethinode/hinode v0.16.1/go.mod h1:xqMr5rSBg/DFNyh67VdUNT1oHdqSMvUa+uewH2KA5Zo=
 github.com/gethinode/hinode v0.16.2 h1:OMiK3ww0IzCv66Of0ROr/0oyUFWm1Efg/zY8UdpGNOw=
@@ -132,6 +134,8 @@ github.com/gethinode/hinode v0.26.7 h1:KxsuJ7n6M8DYQNasw8KOAGWUb/OsxA6SMkKDDTcvo
 github.com/gethinode/hinode v0.26.7/go.mod h1:YYtAJzvr7yTsc/7agiyDyMWm1QMHynqmR/+F5jfUrDQ=
 github.com/gethinode/hinode v0.27.17 h1:rPQmxmFCBIT+S3WBfHRp41d6QYzf/Z/i0BuLi8cvEeo=
 github.com/gethinode/hinode v0.27.17/go.mod h1:k+TUNPNBbNY2kNlzDySw3k/GuDHetfKN/qTXKHwlbk0=
+github.com/gethinode/hinode v0.27.18 h1:rlksX+VmW37ORcoyE9n33uFF6NdINgmN5fsTtgag7lk=
+github.com/gethinode/hinode v0.27.18/go.mod h1:k+TUNPNBbNY2kNlzDySw3k/GuDHetfKN/qTXKHwlbk0=
 github.com/gethinode/mod-bootstrap v1.2.2 h1:Q8E04OKWr9owk7nhQ/NBukUgSFhsECxZsOLEaf5oeiQ=
 github.com/gethinode/mod-bootstrap v1.2.2/go.mod h1:DcpPc2cNaXUPGEvhD7npuEEPA7573NvakTlrwFbyjr8=
 github.com/gethinode/mod-bootstrap v1.2.5 h1:h6yAlkMZA34wJU3pLFpLxp1ynEBte/YTY4kGEQtMGPE=
