@@ -4,7 +4,7 @@ description: "Page to test timelinejs module"
 date: 2024-10-06T12:01:00-04:00
 tags: ["docs", "page1", "Fake", "testing"]
 thumbnail: "https://testhinode.netlify.app/timeline.jpg"
-type: single
+layout: minimal
 categories:
     - Test
 draft: false
