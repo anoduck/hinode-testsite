@@ -84,10 +84,3 @@
     package = "@netlify/plugin-lighthouse"
     [plugins.inputs]
     output_path = "reports/lighthouse.html"
-[[plugins]]
-  package = "@netlify/plugin-csp-nonce"
-  [plugins.inputs]
-    reportOnly = false
-    excludedPath = [
-      "/api/*"
-    ]
