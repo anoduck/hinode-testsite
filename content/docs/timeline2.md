@@ -15,11 +15,11 @@ modules: timelinejs
 
 There should be a timeline below.
 
-Although the json file is loaded relatively from the site root, this does allow for use of both a JSON file and a url to google sheets, as the javascript for both is identical. Perhaps, the identifier should be changed to reflect this. So instead of "jsonFile", it could be the generic identifier "data".
+Although the json file is loaded relatively from the site root, this does allow for use of both a JSON file and a url to google sheets, as the javascript for both is identical. Perhaps, the identifier should be changed to reflect this. So instead of "tlData", it could be the generic identifier "data".
 
 ---
 
-{{< timelinejs blockId="timeline-element" jsonFile="../../timelinejs.json" >}}
+{{< timelinejs blockId="timeline-element" tlData="../../timelinejs.json" >}}
 
 ---
 
