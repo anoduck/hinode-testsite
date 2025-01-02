@@ -19,8 +19,8 @@
         Content-Security-Policy = """\
             default-src 'self'; \
             child-src 'self' app.netlify.com; \
-            script-src 'unsafe-eval' 'self' https://*.netlify.app app.netlify.com netlify-cdp-loader.netlify.app https://*.google-analytics.com https://*.googletagmanager.com; \
-            style-src 'self' https://*.netlify.app https://fonts.googleapis.com https://www.youtube.com; \
+            script-src 'unsafe-eval' 'nonce-' 'self' *.netlify.app app.netlify.com netlify-cdp-loader.netlify.app https://*.google-analytics.com https://*.googletagmanager.com; \
+            style-src 'self' *.netlify.app app.netlify.com netlify-cdp-loader.netlify.app https://fonts.googleapis.com https://www.youtube.com; \
             object-src 'none'; \
             base-uri 'self'; \
             connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; \
@@ -28,7 +28,7 @@
             frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com app.netlify.com; \
             img-src 'self' data: https://*.netlify.app https://i.vimeocdn.com https://i.ytimg.com https://*.cloudinary.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org; \
             manifest-src 'self'; \
-            media-src 'self' https://*.netlify.app https://*.cloudinary.com\
+            media-src 'self' https://*.netlify.app https://*.cloudinary.com https://*.youtube.com \
             """
         X-Frame-Options = "SAMEORIGIN"
         Referrer-Policy = "strict-origin-when-cross-origin"
