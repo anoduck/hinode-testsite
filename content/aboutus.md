@@ -5,7 +5,7 @@ type: default
 description: "A fake about us page."
 tags: ["tag1", "about"]
 thumbnail: 
-    url: https://res.cloudinary.com/dtpjdhepe/image/upload/v1735072534/photo-1733394551632-e4d2e380f621_db8rsy.jpg
+    url: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1735072534/photo-1733394551632-e4d2e380f621_db8rsy.jpg"
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptas iure reprehenderit, dolorem minus, similique voluptatibus aut, veniam illo voluptates modi repudiandae dolor assumenda quae ipsa officiis fuga, exercitationem aliquid.
