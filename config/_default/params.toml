@@ -50,11 +50,12 @@
 [images]
     [images.cloudinary]
         host = "cloudinary"
+        account = "anoduck"
 
 [videos]
     [videos.cloudinary]
         host = "cloudinary"
-        account = "solardump"
+        account = "anoduck"
     [videos.youtube]
         host = "youtube"
 
