@@ -13,13 +13,13 @@ modules: timelinejs
 
 There should be a timeline below.
 
-jsonFile variables has to be referenced relatively. This needs to change.
+tlData variables has to be referenced relatively. This needs to change.
 
-TODO: Change to where jsonfile does not need to be relative.
+TODO: Change to where tlData does not need to be relative.
 
 ---
 
-{{< timelinejs blockId="timeline-element" jsonFile="../../timelinejs.json" >}}
+{{< timelinejs blockId="timeline-element" tlData="../../timelinejs.json" >}}
 
 ---
 
