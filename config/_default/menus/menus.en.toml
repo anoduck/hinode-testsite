@@ -9,18 +9,13 @@
   weight = 30
 
 [[main]]
-  name = "Timeline"
-  pageRef = "/timeline/"
-  weight = 20
-
-[[main]]
   name = "Blog"
   pageRef = "/blog/"
   weight = 40
 
 [[main]]
-  name = "Docs"
-  pageRef = "/docs/"
+  name = "Modules"
+  pageRef = "/modules/"
   weight = 50
 
 [[main]]

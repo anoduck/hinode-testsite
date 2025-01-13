@@ -23,10 +23,10 @@
 [docs]
     github = "https://github.com/anoduck/hinode-testsite"
     release = "https://github.com/anoduck/hinode-testsite/releases/tag/"
-    checkVersion = false
+    checkVersion = true
 
 [home]
-    # sections = ["posts"]
+    sections = ["modules", "blog"]
     fullCover = true
     centerHeadline = true
     style = ""
@@ -97,21 +97,35 @@
     clipboard = true
 
 # toml-docs-start sections
-# [sections]
-#     [sections.posts]
-#         title = "Posts"
-#         sort = "date"
-#         reverse = true
-#         nested = true
-#         cols = 3
-#         color = ""
-#         padding = "0"
-#         header = "full"
-#         footer = "none"
-#         orientation = "stacked"
-#         style = "border-0 card-zoom"
-#         homepage = 3
-#         separator = true
+[sections]
+    [sections.modules]
+        title = "Modules"
+        sort = "weight"
+        reverse = false
+        nested = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
+    [sections.blog]
+        title = "Blog"
+        sort = "date"
+        reverse = true
+        nested = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
 # toml-docs-end sections
 
 [favicon]

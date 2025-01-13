@@ -4,7 +4,7 @@ description: A Hinode instance specifically built for testing rendering and comp
 thumbnail: "https://testhinode.netlify.app/logo-lg.jpg"
 actions:
   get-started:
-    url: "/docs/"
+    url: "/modules/"
     title: "Get started"
     icon: "fas book-open"
 ---

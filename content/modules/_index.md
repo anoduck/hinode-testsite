@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Modules
 nested: true
 ---
 
