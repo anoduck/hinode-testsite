@@ -4,8 +4,8 @@ go 1.20
 
 require (
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
-	github.com/anoduck/mod-timelinejs v0.0.69 // indirect
-	github.com/gethinode/hinode v0.27.27 // indirect
+	github.com/anoduck/mod-timelinejs v0.1.0 // indirect
+	github.com/gethinode/hinode v0.28.1 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.2 // indirect
 	github.com/gethinode/mod-csp v1.0.7 // indirect
 	github.com/gethinode/mod-flexsearch v1.12.1 // indirect
