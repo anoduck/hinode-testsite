@@ -86,6 +86,7 @@ home = ["HTML", "RSS", "REDIR"]
 
 [module]
   # replacements = "github.com/anoduck/mod-timelinejs -> ../../mod-timelinejs"
+  # replacements = "github.com/anoduck/mod-alwaysdark --> ../../mod-alwaysdark"
   [module.hugoVersion]
     extended = true
     min = "0.134.0"
@@ -118,6 +119,8 @@ home = ["HTML", "RSS", "REDIR"]
     path = "github.com/gethinode/hinode"
   [[module.imports]]
     path = "github.com/anoduck/mod-timelinejs"
+  [[module.imports]]
+    path = "github.com/anoduck/mod-alwaysdark"
 
 [segments]
   [segments.headers]
