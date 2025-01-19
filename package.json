@@ -1,6 +1,6 @@
 {
   "name": "@anoduck/hinode-testsite",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "Hinode is a clean blog theme for Hugo, an open-source static site generator",
   "main": "index.js",
   "scripts": {

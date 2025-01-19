@@ -8,7 +8,7 @@ layout: docs
 weight: 10
 categories:
     - Test
-draft: true
+draft: false
 modules: timelinejs
 ---
 
