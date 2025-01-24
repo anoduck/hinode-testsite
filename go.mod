@@ -4,13 +4,14 @@ go 1.20
 
 require (
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
-	github.com/anoduck/mod-alwaysdark v0.1.0 // indirect
-	github.com/anoduck/mod-timelinejs v0.1.1 // indirect
-	github.com/gethinode/hinode v0.28.2 // indirect
+	github.com/anoduck/mod-alwaysdark v0.1.3 // indirect
+	github.com/anoduck/mod-countup v0.0.2 // indirect
+	github.com/anoduck/mod-timelinejs v0.1.4 // indirect
+	github.com/gethinode/hinode v0.29.2 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.2 // indirect
 	github.com/gethinode/mod-csp v1.0.7 // indirect
 	github.com/gethinode/mod-flexsearch v1.12.1 // indirect
-	github.com/gethinode/mod-flexsearch/v2 v2.0.3 // indirect
+	github.com/gethinode/mod-flexsearch/v2 v2.1.0 // indirect
 	github.com/gethinode/mod-fontawesome v1.10.1 // indirect
 	github.com/gethinode/mod-google-analytics v1.3.1 // indirect
 	github.com/gethinode/mod-katex v1.1.3 // indirect
