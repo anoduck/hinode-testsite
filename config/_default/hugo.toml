@@ -34,7 +34,7 @@ home = ["HTML", "RSS", "REDIR"]
 
 [build]
   writeStats = true
-  
+
 [taxonomies]
   tag = 'tags'
 
@@ -87,6 +87,8 @@ home = ["HTML", "RSS", "REDIR"]
 [module]
   # replacements = "github.com/anoduck/mod-timelinejs -> ../../mod-timelinejs"
   # replacements = "github.com/anoduck/mod-alwaysdark --> ../../mod-alwaysdark"
+  # replacements = "github.com/anoduck/mod-countup --> ../../mod-countup"
+
   [module.hugoVersion]
     extended = true
     min = "0.134.0"
@@ -121,6 +123,8 @@ home = ["HTML", "RSS", "REDIR"]
     path = "github.com/anoduck/mod-timelinejs"
   [[module.imports]]
     path = "github.com/anoduck/mod-alwaysdark"
+  [[module.imports]]
+    path = "github.com/anoduck/mod-countup"
 
 [segments]
   [segments.headers]
