@@ -9,7 +9,7 @@ weight: 45
 categories:
     - Test
     - Not_Loading
-draft: true
+draft: false
 modules: countup
 ---
 
@@ -19,8 +19,8 @@ modules: countup
 
 Below is a lovely example of a countup timer.
 
-{{< countup date="2024-01-01T08:00:00-0500" >}}
+{{< countup fromdate="2024-08-13 08:27:43" timezone="UTC" label="Awesome Countup Timer" >}}
 
 ----;
 
-If this does not work, then poopies.
+If this does not work, then poop.
