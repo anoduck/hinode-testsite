@@ -6,6 +6,7 @@ require (
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
 	github.com/anoduck/mod-alwaysdark v0.1.3 // indirect
 	github.com/anoduck/mod-countup v0.1.2 // indirect
+	github.com/anoduck/mod-popup v0.1.1 // indirect
 	github.com/anoduck/mod-timelinejs v0.1.4 // indirect
 	github.com/gethinode/hinode v0.29.3 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.2 // indirect
