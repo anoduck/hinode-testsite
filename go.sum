@@ -20,6 +20,8 @@ github.com/anoduck/mod-countup v0.1.1 h1:fhHy3iMaGfmMLzkNZYiUDO1Z9NJXdliD9x6gMIS
 github.com/anoduck/mod-countup v0.1.1/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
 github.com/anoduck/mod-countup v0.1.2 h1:CEm+o77bXq4voyS0GcUNfrksi1RyFXR3fj3agLwfEWg=
 github.com/anoduck/mod-countup v0.1.2/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
+github.com/anoduck/mod-popup v0.1.1 h1:pkWSwmNUae85TG+nSnXJ+kZjt7+TAC+Jx10V0FXX8Vs=
+github.com/anoduck/mod-popup v0.1.1/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-timelinejs v0.0.55 h1:pVZMTTrwm5qRNZD7uXKkyvaa/gyfs8LeAqA3jU/+Dc4=
 github.com/anoduck/mod-timelinejs v0.0.55/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
 github.com/anoduck/mod-timelinejs v0.0.56 h1:LtCEq9m/nALR+GtxI03Q1xs9jRfB8Q6l8gd5OsjQy6E=
