@@ -3,7 +3,7 @@ title: AlwaysDark Module
 description: "A Module to force Hinode to always display dark."
 date: 2025-01-19T04:55:47-05:00
 tags: ["modules", "alwaysdark", "Fake", "testing"]
-thumbnail: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1737281347/photo-1647539518045-ab107ca1f43f_ccetuj.jpg"
+thumbnail: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1738644075/photo-1656168203484-e5e09e9f3510_dgw7hj.jpg"
 layout: docs
 weight: 30
 categories:
