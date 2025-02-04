@@ -1,0 +1,9 @@
+frames:
+  - image:
+    src: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1738641560/logo-lg-768x432_it5a3a.jpg"
+    label: "Original"
+    credit: "Grok"
+  - image:
+    src: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1738641560/logo-lg-768x432-rev_vp4gdu.jpg"
+    label: "Reverse"
+    credit: "Grok"
