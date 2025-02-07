@@ -144,6 +144,7 @@
       "h-100",
       "heading",
       "hstack",
+      "imag-replace",
       "img-fluid",
       "img-replace",
       "img-wrap",
@@ -205,6 +206,7 @@
       "pb-4",
       "pb-5",
       "pb-md-0",
+      "popup-content",
       "position-fixed",
       "position-relative",
       "post-date",
@@ -267,6 +269,7 @@
     "ids": [
       "a-countup-timer",
       "a-popup",
+      "a-popup-module-for-hinode",
       "blog",
       "blog-posts",
       "countup",
