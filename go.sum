@@ -26,6 +26,8 @@ github.com/anoduck/mod-juxtapose v0.1.0 h1:v0tV9fRCkt52iasQpZ6jZ3HbbgsXpELsEbC8Q
 github.com/anoduck/mod-juxtapose v0.1.0/go.mod h1:lT+sgRgAKJ0uT/vYkaKuV1/W7SBcdfYNP3qrUdHux2M=
 github.com/anoduck/mod-popup v0.1.1 h1:pkWSwmNUae85TG+nSnXJ+kZjt7+TAC+Jx10V0FXX8Vs=
 github.com/anoduck/mod-popup v0.1.1/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.1.3 h1:HVwb3rJ0tvKXcGVMQR2CNEJoKw/za/KHh8VJNI4dSRo=
+github.com/anoduck/mod-popup v0.1.3/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-timelinejs v0.0.55 h1:pVZMTTrwm5qRNZD7uXKkyvaa/gyfs8LeAqA3jU/+Dc4=
 github.com/anoduck/mod-timelinejs v0.0.55/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
 github.com/anoduck/mod-timelinejs v0.0.56 h1:LtCEq9m/nALR+GtxI03Q1xs9jRfB8Q6l8gd5OsjQy6E=

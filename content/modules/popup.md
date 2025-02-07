@@ -10,14 +10,6 @@ draft: false
 modules: popup
 ---
 
-## A Popup
+If you are able to read this, then you have already closed the popup.
 
-----
-
-Below is a lovely example of a popup timer.
-
-{{< popup title="Some Title" btnlabel="Some Label" >}} Here is some content to place in the popup. Soon we will allow for customization of popup styling through site params. {{< /popup >}}
-
-----
-
-If this does not work, then poop. I rather should a say, pop down. 😉
+{{< popup >}}
