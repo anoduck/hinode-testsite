@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
 	github.com/anoduck/mod-alwaysdark v0.1.3 // indirect
-	github.com/anoduck/mod-countup v0.1.2 // indirect
+	github.com/anoduck/mod-countup v0.1.3 // indirect
 	github.com/anoduck/mod-juxtapose v0.1.0 // indirect
 	github.com/anoduck/mod-popup v0.1.4 // indirect
 	github.com/anoduck/mod-timelinejs v0.1.4 // indirect
