@@ -20,6 +20,8 @@ github.com/anoduck/mod-countup v0.1.1 h1:fhHy3iMaGfmMLzkNZYiUDO1Z9NJXdliD9x6gMIS
 github.com/anoduck/mod-countup v0.1.1/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
 github.com/anoduck/mod-countup v0.1.2 h1:CEm+o77bXq4voyS0GcUNfrksi1RyFXR3fj3agLwfEWg=
 github.com/anoduck/mod-countup v0.1.2/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
+github.com/anoduck/mod-countup v0.1.3 h1:0PSo+TxNYVIOliRKUCFzfqcIkGeznCfnzacFwz0xFDA=
+github.com/anoduck/mod-countup v0.1.3/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
 github.com/anoduck/mod-juxtapose v0.0.1 h1:s+kex0XJKIzVcV4mxaq2R/Udv0f6t9LOH3tbrU1qMWQ=
 github.com/anoduck/mod-juxtapose v0.0.1/go.mod h1:lT+sgRgAKJ0uT/vYkaKuV1/W7SBcdfYNP3qrUdHux2M=
 github.com/anoduck/mod-juxtapose v0.1.0 h1:v0tV9fRCkt52iasQpZ6jZ3HbbgsXpELsEbC8QCaDr9A=
