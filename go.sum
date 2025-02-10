@@ -22,6 +22,10 @@ github.com/anoduck/mod-countup v0.1.2 h1:CEm+o77bXq4voyS0GcUNfrksi1RyFXR3fj3agLw
 github.com/anoduck/mod-countup v0.1.2/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
 github.com/anoduck/mod-countup v0.1.3 h1:0PSo+TxNYVIOliRKUCFzfqcIkGeznCfnzacFwz0xFDA=
 github.com/anoduck/mod-countup v0.1.3/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
+github.com/anoduck/mod-countup v0.1.4 h1:YiS86syxTPqXn/1A4Eq/4g2ILLwaQnBIy+YBl5f8KGU=
+github.com/anoduck/mod-countup v0.1.4/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
+github.com/anoduck/mod-countup v0.1.5 h1:+sBcbEa0YDw8kcxwOUvAJWDL1VJfQ3IDdXvg1J3oQrg=
+github.com/anoduck/mod-countup v0.1.5/go.mod h1:j4DhQAAE6qmED5KD3o43cCHYD0Q7AVMMUUZDSkS2a8Y=
 github.com/anoduck/mod-juxtapose v0.0.1 h1:s+kex0XJKIzVcV4mxaq2R/Udv0f6t9LOH3tbrU1qMWQ=
 github.com/anoduck/mod-juxtapose v0.0.1/go.mod h1:lT+sgRgAKJ0uT/vYkaKuV1/W7SBcdfYNP3qrUdHux2M=
 github.com/anoduck/mod-juxtapose v0.1.0 h1:v0tV9fRCkt52iasQpZ6jZ3HbbgsXpELsEbC8QCaDr9A=
@@ -32,6 +36,10 @@ github.com/anoduck/mod-popup v0.1.3 h1:HVwb3rJ0tvKXcGVMQR2CNEJoKw/za/KHh8VJNI4dS
 github.com/anoduck/mod-popup v0.1.3/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-popup v0.1.4 h1:D0ZfiTU9x92TZcwBtyDelJdLNNRsKLiaN/ad3Ey6iJ8=
 github.com/anoduck/mod-popup v0.1.4/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.1.5 h1:yse90q+njCxlc4glZUS7q7mrV+43QCwDWuyQOBgtvgw=
+github.com/anoduck/mod-popup v0.1.5/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.1.6 h1:A62Ko5No9XQluvj4wTi9YFbOdhk8V1Kmzdt5HInOdyg=
+github.com/anoduck/mod-popup v0.1.6/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-timelinejs v0.0.55 h1:pVZMTTrwm5qRNZD7uXKkyvaa/gyfs8LeAqA3jU/+Dc4=
 github.com/anoduck/mod-timelinejs v0.0.55/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
 github.com/anoduck/mod-timelinejs v0.0.56 h1:LtCEq9m/nALR+GtxI03Q1xs9jRfB8Q6l8gd5OsjQy6E=
