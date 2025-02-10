@@ -88,6 +88,7 @@ home = ["HTML", "RSS", "REDIR"]
   # replacements = "github.com/anoduck/mod-timelinejs -> ../../mod-timelinejs"
   # replacements = "github.com/anoduck/mod-alwaysdark --> ../../mod-alwaysdark"
   # replacements = "github.com/anoduck/mod-countup --> ../../mod-countup"
+  # replacements = "github.com/anoduck/mod-popup --> ../../mod-popup"
   # replacements = "github.com/anoduck/mod-juxtapose --> ../../mod-juxtapose"
 
   [module.hugoVersion]
