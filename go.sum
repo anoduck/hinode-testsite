@@ -40,6 +40,16 @@ github.com/anoduck/mod-popup v0.1.5 h1:yse90q+njCxlc4glZUS7q7mrV+43QCwDWuyQOBgtv
 github.com/anoduck/mod-popup v0.1.5/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-popup v0.1.6 h1:A62Ko5No9XQluvj4wTi9YFbOdhk8V1Kmzdt5HInOdyg=
 github.com/anoduck/mod-popup v0.1.6/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.1.8 h1:SEBdafXpRIPbZUR8wLzGueTjoAM4Lyx7P7hf8oMQeBg=
+github.com/anoduck/mod-popup v0.1.8/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.2.0 h1:x8wGxCjdBJm1dWnCd+9jr6fLnr133oCII5Krzn5iIOQ=
+github.com/anoduck/mod-popup v0.2.0/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.2.1 h1:z8gEcuZ8za2VaBOuIfSdpFOtrdiWrIlE0d3YW8XUWBM=
+github.com/anoduck/mod-popup v0.2.1/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.2.2 h1:DVWdmdYHrbJFpURLrKHc01BTVVIY+01YuFWC4qkcV9Q=
+github.com/anoduck/mod-popup v0.2.2/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.2.3 h1:qQNIU+tuDhJyYeiZFt3lG8c5GFLqBTxXtr2xggmmirk=
+github.com/anoduck/mod-popup v0.2.3/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-timelinejs v0.0.55 h1:pVZMTTrwm5qRNZD7uXKkyvaa/gyfs8LeAqA3jU/+Dc4=
 github.com/anoduck/mod-timelinejs v0.0.55/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
 github.com/anoduck/mod-timelinejs v0.0.56 h1:LtCEq9m/nALR+GtxI03Q1xs9jRfB8Q6l8gd5OsjQy6E=
@@ -418,6 +428,8 @@ github.com/nextapps-de/flexsearch v0.0.0-20240110101704-4c3966709f85 h1:H6xa5YyC
 github.com/nextapps-de/flexsearch v0.0.0-20240110101704-4c3966709f85/go.mod h1:5GdMfPAXzbA2gXBqTjC6l27kioSYzHlqDMh0+wyx7sU=
 github.com/nextapps-de/flexsearch v0.0.0-20240501124520-961c3ae84a87 h1:6PNbL0/LxO8Xl8MZSe5uvCidYNpFTz9nlWTqj2qdlzA=
 github.com/nextapps-de/flexsearch v0.0.0-20240501124520-961c3ae84a87/go.mod h1:5GdMfPAXzbA2gXBqTjC6l27kioSYzHlqDMh0+wyx7sU=
+github.com/nextapps-de/flexsearch v0.0.0-20250210141409-f78ebb388862 h1:+kGQ+34t7Bv0mbwTGUxwQU2ruuac8jsHEvcleSRUI3M=
+github.com/nextapps-de/flexsearch v0.0.0-20250210141409-f78ebb388862/go.mod h1:5GdMfPAXzbA2gXBqTjC6l27kioSYzHlqDMh0+wyx7sU=
 github.com/twbs/bootstrap v5.3.0+incompatible h1:4+staADO0OrqUv77m+XL+vHYojLH9oxb4Vxi9mnIJWg=
 github.com/twbs/bootstrap v5.3.0+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.2+incompatible h1:tuiO5acc6xnZUR77Sbi5aKWXxjYxbmsSbJwYrhAKoQQ=

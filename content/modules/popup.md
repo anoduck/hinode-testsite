@@ -7,9 +7,8 @@ thumbnail: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1738648819/photo-
 layout: docs
 weight: 50
 draft: false
-modules: popup
 ---
 
-If you are able to read this, then you have already closed the popup.
+If you have visited this site, then you have already experienced the popup module. It is designed to run as a partial
+for the entire website.
 
-{{< popup >}}
