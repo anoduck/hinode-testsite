@@ -188,4 +188,4 @@
     image = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1738910013/10-Website-Popup-Ad-Examples-For-Your-Website-Best-Practices-Tips-1_hgnyl3.jpg"
     alt = "Popup ahoy!"
     btnlabel = "Close"
-    content = "About the image: It is what I could find, sorry. Click the button below to leave this popup."
+    content = "Click the button below to leave this popup."
