@@ -50,6 +50,8 @@ github.com/anoduck/mod-popup v0.2.2 h1:DVWdmdYHrbJFpURLrKHc01BTVVIY+01YuFWC4qkcV
 github.com/anoduck/mod-popup v0.2.2/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-popup v0.2.3 h1:qQNIU+tuDhJyYeiZFt3lG8c5GFLqBTxXtr2xggmmirk=
 github.com/anoduck/mod-popup v0.2.3/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
+github.com/anoduck/mod-popup v0.2.4 h1:iHcKyo9RzDFtXv6UzzdtnMwywpi2oPH/fI7TvMuoic0=
+github.com/anoduck/mod-popup v0.2.4/go.mod h1:h2N2QA3SokbQiaSPAcCJLpuQP1hhbUqCx8HhxHa6CUs=
 github.com/anoduck/mod-timelinejs v0.0.55 h1:pVZMTTrwm5qRNZD7uXKkyvaa/gyfs8LeAqA3jU/+Dc4=
 github.com/anoduck/mod-timelinejs v0.0.55/go.mod h1:INrJdV8hxu6/EumOoE0mn0SmPeQR7xMIQ/tWb6FKqtw=
 github.com/anoduck/mod-timelinejs v0.0.56 h1:LtCEq9m/nALR+GtxI03Q1xs9jRfB8Q6l8gd5OsjQy6E=
