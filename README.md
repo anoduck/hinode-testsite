@@ -8,24 +8,38 @@
 <p align="center">
     <b>A Hinode template for testing modules.</b>
     <br />
+
+    [![Netlify Status](https://api.netlify.com/api/v1/badges/16be57f8-11a6-4035-ae7d-353e140295cc/deploy-status)](https://app.netlify.com/sites/testhinode/deploys)
+    
+    <br />
 </p>
 
 ## About
 
-There has been the need for a "rather vanilla" Hinode site to test modules and other things on. So, one was created.
+We needed a "somewhat vanilla" version of Hinode to test custom modules and server configurations on. So, one was
+created, and then we decided to host it on Netlify, because it was the easiest thing to do. This way, if one of our
+modules runs into trouble, we have a publicly available site to share anything we need on.
 
-Chuck Norris named his daughter Mercy. The day she was born was the only day Chuck Norris ever had Mercy. Chuck Norris is the reason why Waldo is hiding. Some kids pee their name in the snow. Chuck Norris can pee his name into concrete. Chuck Norris has never blinked in his entire life. Never. Chuck Norris can squeeze orange juice out of a lemon.
+## Want to use it?
 
-When Chuck Norris does a pushup, he’s pushing the Earth down. Chuck Norris invented airplanes because he was tired of being the only person that could fly. The only time Chuck Norris was ever wrong was when he thought he had made a mistake. Chuck Norris can clap with one hand. Chuck Norris’ tears cure cancer. Too bad he has never cried.
+Want to test your module out on our site? Simply perform a pull request, and we will push it to our netlify instance.
 
-Chuck refers to himself in the fourth person. Chuck Norris is the reason why Waldo is hiding. Chuck Norris’ cowboy boots are made from real cowboys. Chuck Norris narrates Morgan Freeman’s life. Chuck Norris doesn’t cheat death. He wins fair and square.
+## Branch information
 
+Details on branches are as follows:
+
+- Main = Unstable
+- Stable = Release
+- Develop = Develop
 
 ## Prerequisites
+
+Here are the dependencies.
 
 - [Git][git_download]
 - [Go binary][golang_download]
 - [Node.js][nodejs] (it includes npm)
+- [Hugo][hugo]
 
 ## Installation
 
@@ -35,19 +49,10 @@ Chuck refers to himself in the fourth person. Chuck Norris is the reason why Wal
     npm install && npm run mod:update
     ```
 
-You will not be able to use hugo's own development server for this, because it does not process the images.
-
-2. **Build the site.**
+2. **Run Development Server**
 
     ```bash
-    npm run build
+    npm run start
     ```
 
-3. **Serve the site**
-
-    ```bash
-        cd public
-        npx live-server --port=8080 --entry-file=index.html .
-    ```
-
-4. Crawl it.
+3. Rock it, like a boss.
