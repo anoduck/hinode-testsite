@@ -1,6 +1,6 @@
 {
   "name": "@anoduck/hinode-testsite",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "description": "Hinode is a clean blog theme for Hugo, an open-source static site generator",
   "main": "index.js",
   "scripts": {
@@ -50,17 +50,17 @@
     "@knight-lab/timelinejs": "^3.9.7",
     "bundle-scss": "^1.5.4",
     "eslint": "^9.26.0",
-    "hugo-bin": "^0.144.2",
+    "hugo-bin": "0.142.0",
     "live-server": "^1.2.2",
-    "markdownlint-cli2": "^0.17.2",
+    "markdownlint-cli2": "^0.18.1",
     "neostandard": "^0.12.1",
     "netlify-plugin-hugo-cache-resources": "^0.2.1",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^11.0.1",
-    "rexreplace": "^7.1.12",
+    "rexreplace": "^7.1.13",
     "rimraf": "^6.0.1",
     "stylelint": "^16.19.1",
-    "stylelint-config-standard-scss": "^14.0.0"
+    "stylelint-config-standard-scss": "^15.0.0"
   },
   "optionalDependencies": {
     "fsevents": "*"

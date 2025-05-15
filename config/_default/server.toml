@@ -12,13 +12,13 @@ for = '/**'
         base-uri 'self'; \
         connect-src 'self' https://*.knightlab.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; \
         font-src 'self' https://*.netlify.app https://fonts.gstatic.com; \
-        frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com app.netlify.com; \
+        frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com https://*.netlify.com https://*.google.com; \
         img-src 'self' data: https: https://*.netlify.app https://i.vimeocdn.com https://i.ytimg.com https://*.cloudinary.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org; \
         manifest-src 'self'; \
-        media-src 'self' https: https://*.netlify.app https://*.cloudinary.com https://*.youtube.com \
+        media-src 'self' https://*.netlify.app https://*.cloudinary.com https://*.youtube.com; \
         """
     X-Frame-Options = "SAMEORIGIN"
-    Referrer-Policy = "strict-origin"
+    Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = """\
         geolocation=(), \
         midi=(), \

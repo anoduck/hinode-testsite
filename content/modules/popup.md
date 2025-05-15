@@ -12,3 +12,14 @@ draft: false
 If you have visited this site, then you have already experienced the popup module. It is designed to run as a partial
 for the entire website.
 
+## Status
+
+The module was used to display a simple message informing visitors that we are continually adding more and more
+information to our site all the time. The result actually caused confusion amongst visitors who misunderstood it as a
+message that our site was down for repairs. So, it was immediately removed. 
+
+As a result of the module no longer being used on our site, we have discontinued further development of it.
+
+## Notes
+
+TODO: Include a bit of script to force the popup into showing again.
