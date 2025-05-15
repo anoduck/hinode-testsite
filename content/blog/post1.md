@@ -1,5 +1,6 @@
 ---
 title: Post1
+slug: post1
 date: 2024-10-06T12:02:49-04:00
 layout: default
 description: "Another fake blog post"
