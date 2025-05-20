@@ -94,7 +94,7 @@ home = ["HTML", "RSS", "REDIR"]
   [module.hugoVersion]
     extended = true
     min = "0.134.0"
-    max = ""
+    max = "2.0.0"
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
@@ -127,10 +127,10 @@ home = ["HTML", "RSS", "REDIR"]
     path = "github.com/anoduck/mod-alwaysdark"
   [[module.imports]]
     path = "github.com/anoduck/mod-countup"
-  # [[module.imports]]
-  #   path = "github.com/anoduck/mod-popup"
   [[module.imports]]
     path = "github.com/anoduck/mod-juxtapose"
+  [[module.imports]]
+    path = "github.com/anoduck/mod-yagallery"
 
 [segments]
   [segments.headers]

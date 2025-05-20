@@ -18,7 +18,7 @@
 [debugging]
     showJS = true
     showSCSS = true
-    purgeHTMLComments = false
+    purgeHTMLComments = true
 
 [docs]
     github = "https://github.com/anoduck/hinode-testsite"
@@ -101,7 +101,7 @@
     [sections.modules]
         title = "Modules"
         sort = "weight"
-        reverse = false
+        reverse = true
         nested = true
         cols = 3
         color = ""
@@ -189,3 +189,6 @@
     alt = "Popup ahoy!"
     btnlabel = "Close"
     content = "Click the button below to leave this popup."
+
+[modules.yagallery]
+	debug = false
