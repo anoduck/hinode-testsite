@@ -9,7 +9,7 @@ require (
 	github.com/anoduck/mod-juxtapose v0.1.0 // indirect
 	github.com/anoduck/mod-popup v0.2.7 // indirect
 	github.com/anoduck/mod-timelinejs v0.1.5 // indirect
-	github.com/anoduck/mod-yagallery v0.1.6 // indirect
+	github.com/anoduck/mod-yagallery v0.1.7 // indirect
 	github.com/d-oit/hinode-mod-slideshow-gallery v1.2.6 // indirect
 	github.com/gethinode/hinode v0.29.4 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.2 // indirect
