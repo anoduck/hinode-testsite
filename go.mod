@@ -4,11 +4,13 @@ go 1.20
 
 require (
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
-	github.com/anoduck/mod-alwaysdark v0.1.5 // indirect
+	github.com/anoduck/mod-alwaysdark v0.1.6 // indirect
 	github.com/anoduck/mod-countup v0.1.5 // indirect
 	github.com/anoduck/mod-juxtapose v0.1.0 // indirect
 	github.com/anoduck/mod-popup v0.2.7 // indirect
 	github.com/anoduck/mod-timelinejs v0.1.5 // indirect
+	github.com/anoduck/mod-yagallery v0.1.5 // indirect
+	github.com/d-oit/hinode-mod-slideshow-gallery v1.2.6 // indirect
 	github.com/gethinode/hinode v0.29.4 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.2 // indirect
 	github.com/gethinode/mod-csp v1.0.7 // indirect
@@ -22,6 +24,6 @@ require (
 	github.com/gethinode/mod-mermaid v1.1.21 // indirect
 	github.com/gethinode/mod-simple-datatables v1.1.7 // indirect
 	github.com/gethinode/mod-utils/v2 v2.10.0 // indirect
-	github.com/nextapps-de/flexsearch v0.0.0-20250510105850-07eeb037c3f4 // indirect
+	github.com/nextapps-de/flexsearch v0.0.0-20250515065605-e9c26f06b404 // indirect
 	github.com/twbs/bootstrap v5.3.6+incompatible // indirect
 )

@@ -1,0 +1,14 @@
+title: Test Gallery
+content:
+  - src: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1747507560/photo-1602407069119-e0c6f1602e31_asfl4l.jpg"
+    alt: "A bulletproof vest wears Chuck Norris for protection."
+    thumb: cloudinary
+  - src: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1747507607/photo-1747253590504-3a17cd5a4f9c_o6vr2t.jpg"
+    alt: "Mission Impossible was originally set in Chuck Norris’s house."
+    thumb: cloudinary
+  - src: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1747507644/photo-1640684821983-621a3321b1da_jx1fgs.jpg"
+    alt: "When God said, “Let there be light!” Chuck said, Say Please."
+    thumb: cloudinary
+  - src: "https://res.cloudinary.com/dtpjdhepe/image/upload/v1747507701/photo-1740975833734-2e0bba5d74df_ohhihi.jpg"
+    alt: "Chuck Norris knows Victoria’s secret."
+    thumb: cloudinary
