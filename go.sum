@@ -108,6 +108,8 @@ github.com/anoduck/mod-yagallery v0.1.5 h1:DkcHv4pNyP7WHg0FTNkCnPXWgMZyIglmlHRuT
 github.com/anoduck/mod-yagallery v0.1.5/go.mod h1:Fu1livwR3MSbC2XgmNvdnr/fM+rVtyF+FsMEpieO6Zg=
 github.com/anoduck/mod-yagallery v0.1.6 h1:b9jlgeu1pWRnsRUJ4CR1BSOz9M+B48r1KDuX74vOMmc=
 github.com/anoduck/mod-yagallery v0.1.6/go.mod h1:Fu1livwR3MSbC2XgmNvdnr/fM+rVtyF+FsMEpieO6Zg=
+github.com/anoduck/mod-yagallery v0.1.7 h1:R+Ud649K3pS51YF5lI6o1K65ro2lORL/i/1t/yAx7iI=
+github.com/anoduck/mod-yagallery v0.1.7/go.mod h1:Fu1livwR3MSbC2XgmNvdnr/fM+rVtyF+FsMEpieO6Zg=
 github.com/d-oit/hinode-mod-slideshow-gallery v1.2.6 h1:ThCxeDDuEZFoX60cMJBknO+XheCk7aLI3IVTOCQg6Ag=
 github.com/d-oit/hinode-mod-slideshow-gallery v1.2.6/go.mod h1:D5XKzi4wtGalUELD8OOk2IN+AJzuSrSTJOGq9r9DEEA=
 github.com/gethinode/hinode v0.16.1 h1:UJ4tn1FyaFvHRwUFhi1SMKmNIvI2DAdgdHdej2iDhSs=
