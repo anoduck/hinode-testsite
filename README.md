@@ -6,12 +6,10 @@
 
 <!-- Tagline -->
 <p align="center">
-    <b>A Hinode template for testing modules.</b>
-    <br />
-
-    ![Netlify Status](https://api.netlify.com/api/v1/badges/16be57f8-11a6-4035-ae7d-353e140295cc/deploy-status)
-    
-    <br />
+<b>A Hinode template for testing modules.</b>
+<br />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16be57f8-11a6-4035-ae7d-353e140295cc/deploy-status)](https://app.netlify.com/sites/testhinode/deploys)
+<br />
 </p>
 
 ## About
