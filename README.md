@@ -2,13 +2,11 @@
 
 # Hinode Test Site
 
->A Hinode site for testing compatibility and functionality of modules.
-
 <!-- Tagline -->
 <p align="center">
-<b>A Hinode template for testing modules.</b>
+<b>A Hinode site for testing compatibility and functionality of modules.</b>
 <br />
-[![Netlify Status](https://api.netlify.com/api/v1/badges/16be57f8-11a6-4035-ae7d-353e140295cc/deploy-status)](https://app.netlify.com/sites/testhinode/deploys)
+    <a href="https://app.netlify.com/sites/testhinode/deploys"><img src="https://api.netlify.com/api/v1/badges/16be57f8-11a6-4035-ae7d-353e140295cc/deploy-status" alt="Netlify Status"></a>
 <br />
 </p>
 
@@ -18,17 +16,9 @@ We needed a "somewhat vanilla" version of Hinode to test custom modules and serv
 created, and then we decided to host it on Netlify, because it was the easiest thing to do. This way, if one of our
 modules runs into trouble, we have a publicly available site to share anything we need on.
 
-## Want to use it?
+## Want to use this site for your modules?
 
-Want to test your module out on our site? Simply perform a pull request, and we will push it to our netlify instance.
-
-## Branch information
-
-Details on branches are as follows:
-
-- Main = Unstable
-- Stable = Release
-- Develop = Develop
+Simply perform a pull request, and we will push it to our netlify instance.
 
 ## Prerequisites
 
