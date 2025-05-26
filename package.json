@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@gethinode/netlify-plugin-dartsass": "^0.3.0",
-    "@knight-lab/timelinejs": "^3.9.7",
+    "@knight-lab/timelinejs": "^3.9.8",
     "bundle-scss": "^1.5.4",
     "eslint": "^9.27.0",
     "hugo-bin": "0.142.0",
