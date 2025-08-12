@@ -9,6 +9,9 @@
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
+    [main.internalLinks]
+        validate = true
+        pretty = false
     [main.externalLinks]
         cue = false
         tab = false
@@ -16,9 +19,9 @@
         transpiler = "libsass"
 
 [debugging]
-    showJS = true
-    showSCSS = true
-    purgeHTMLComments = true
+    showJS = false
+    showSCSS = false
+    purgeHTMLComments = false
 
 [docs]
     github = "https://github.com/anoduck/hinode-testsite"
@@ -26,14 +29,14 @@
     checkVersion = true
 
 [home]
-    sections = ["modules", "blog"]
-    fullCover = true
-    centerHeadline = true
+    # sections = ["modules", "blog"]
+    fullCover = false
+    centerHeadline = false
     style = ""
 
 [navigation]
     anchor = true
-    logo = "logo-lg.jpg"
+    logo = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1755032661/logo-lg_getamf.jpg"
     color = "body"
     fixed = true
     offset = "5.5rem"
@@ -97,35 +100,21 @@
     clipboard = true
 
 # toml-docs-start sections
-[sections]
-    [sections.modules]
-        title = "Modules"
-        sort = "weight"
-        reverse = true
-        nested = true
-        cols = 3
-        color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        style = "border-0 card-zoom"
-        homepage = 3
-        separator = true
-    [sections.blog]
-        title = "Blog"
-        sort = "date"
-        reverse = true
-        nested = true
-        cols = 3
-        color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        style = "border-0 card-zoom"
-        homepage = 3
-        separator = true
+# [sections]
+#     [sections.posts]
+#         title = "Posts"
+#         sort = "date"
+#         reverse = true
+#         nested = true
+#         cols = 3
+#         color = ""
+#         padding = "0"
+#         header = "full"
+#         footer = "none"
+#         orientation = "stacked"
+#         style = "border-0 card-zoom"
+#         homepage = 3
+#         separator = true
 # toml-docs-end sections
 
 [favicon]
@@ -164,16 +153,16 @@
         # linkedin = "https://www.linkedin.com/in/markdumay/"
         github = "https://github.com/anoduck"
     [schema.logo]
-        url = "logo.jpg"
+        url = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1755032663/logo_gmco7d.jpg"
         width = 512
         height = 512
     [schema.image]
-        url = "logo-lg.jpg"
+        url = "https://res.cloudinary.com/dtpjdhepe/image/upload/v1755032661/logo-lg_getamf.jpg"
         width = 1280
         height = 640
 
 [opengraph]
-    images = ["logo.jpg", "logo-lg.jpg", "logo-sm.jpg"]
+    images = ["https://res.cloudinary.com/dtpjdhepe/image/upload/v1755032663/logo_gmco7d.jpg"]
     locale = "en_US"
 
 [links]
