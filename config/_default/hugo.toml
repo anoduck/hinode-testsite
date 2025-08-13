@@ -94,7 +94,6 @@ home = ["HTML", "RSS", "REDIR"]
   [module.hugoVersion]
     extended = true
     min = "0.134.0"
-    max = "2.0.0"
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
