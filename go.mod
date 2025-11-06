@@ -10,7 +10,7 @@ require (
 	github.com/anoduck/mod-timelinejs v0.1.5 // indirect
 	github.com/anoduck/mod-yagallery v0.1.9 // indirect
 	github.com/cloudcannon/bookshop/hugo/v3 v3.16.5 // indirect
-	github.com/gethinode/hinode v1.19.3 // indirect
+	github.com/gethinode/hinode v1.19.7 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.4 // indirect
 	github.com/gethinode/mod-csp v1.0.8 // indirect
 	github.com/gethinode/mod-flexsearch/v2 v2.1.3 // indirect
