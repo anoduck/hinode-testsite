@@ -50,7 +50,7 @@
     "@gethinode/netlify-plugin-dartsass": "^0.3.0",
     "@knight-lab/timelinejs": "^3.9.8",
     "bundle-scss": "^1.5.4",
-    "eslint": "^9.39.1",
+    "eslint": "^9.39.2",
     "hugo-bin": "0.149.2",
     "markdownlint-cli2": "^0.20.0",
     "neostandard": "^0.12.2",
