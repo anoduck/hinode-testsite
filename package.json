@@ -60,7 +60,7 @@
     "rexreplace": "^7.1.14",
     "rimraf": "^6.1.2",
     "stylelint": "^16.26.1",
-    "stylelint-config-standard-scss": "^16.0.0"
+    "stylelint-config-standard-scss": "^17.0.0"
   },
   "optionalDependencies": {
     "fsevents": "*"
