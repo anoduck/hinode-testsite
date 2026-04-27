@@ -9,9 +9,9 @@ require (
 	github.com/anoduck/mod-juxtapose v0.1.0 // indirect
 	github.com/anoduck/mod-timelinejs v0.1.5 // indirect
 	github.com/anoduck/mod-yagallery v0.1.9 // indirect
-	github.com/cloudcannon/bookshop/hugo/v3 v3.17.1 // indirect
+	github.com/cloudcannon/bookshop/hugo/v3 v3.18.2 // indirect
 	github.com/gethinode/hinode v1.23.7 // indirect
-	github.com/gethinode/mod-bootstrap v1.3.5 // indirect
+	github.com/gethinode/mod-bootstrap v1.3.6 // indirect
 	github.com/gethinode/mod-csp v1.0.9 // indirect
 	github.com/gethinode/mod-flexsearch/v2 v2.1.3 // indirect
 	github.com/gethinode/mod-flexsearch/v3 v3.3.3 // indirect
